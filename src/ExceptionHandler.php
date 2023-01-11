@@ -1,6 +1,6 @@
 <?php
 
-namespace Waxwink\Orbis\Framework\Http;
+namespace Weebel\HttpKernel;
 
 use Symfony\Component\HttpFoundation\Response;
 use Throwable;
