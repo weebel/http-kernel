@@ -4,12 +4,12 @@
   "prefer-stable": true,
   "autoload": {
     "psr-4": {
-      "Weebel\\HttoKernel\\": "src/"
+      "Weebel\\HttpKernel\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Weebel\\HttoKernel\\Tests\\": "tests/"
+      "Weebel\\HttpKernel\\Tests\\": "tests/"
     }
   },
   "require-dev": {
